@@ -1,7 +1,7 @@
 Package: geomorphR
 Type: Package
 Title: Geometric Features and Footprint Comparison for 'sf' Objects
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: person("Jonathan", "Cohen", email = "cohen.jota@gmail.com", role = c("aut", "cre"))
 Author: Jonathan Cohen [aut, cre]
 Maintainer: Jonathan Cohen <cohen.jota@gmail.com>
@@ -25,6 +25,6 @@ Imports: sf, dplyr, future, future.apply, progressr
 Suggests: testthat (>= 3.0.0)
 Config/roxygen2/version: 8.1.0
 NeedsCompilation: no
-Packaged: 2026-10-13 10:17:34 UTC; edgardo
+Packaged: 2026-10-16 12:13:55 UTC; edgardo
 Repository: CRAN
-Date/Publication: 2026-10-13 10:40:11 UTC
+Date/Publication: 2026-10-16 14:30:02 UTC

@@ -1,11 +1,11 @@
-61a7edda30c0135ce59634e10ec2bb46 *DESCRIPTION
+1e5ed5566d68e62db807da08089f5748 *DESCRIPTION
 60556ebffec53f63fa3aa292368132e3 *LICENSE
 83ab3552350805d5628562d450568e1e *NAMESPACE
-c9d703458cf06cf761674d930daf5e7e *NEWS.md
+9188bc8ce2d87ef08098d0db7df38cfd *NEWS.md
 109188c29c302ae195407f6f81d3883d *R/compare_footprints.R
-81753fd179ac02118c31799099ae6264 *R/extract_geometric_features.R
-8c250a30f65c5e8a4b45978a138ec881 *README.md
-ccd6c56afa9e06a5cd0e001c988058d8 *inst/examples/compare_footprints.R
+9fe6f9dff0c874f7c5bec483e6e4e904 *R/extract_geometric_features.R
+dd6220a699d82ffd3740dbfa1000e0e3 *README.md
+7e28c51a308ccbcb3cdc901f581bfd70 *inst/examples/compare_footprints.R
 b61225819d74cf72c6845b32f084fb27 *inst/extdata/central_gbg.geojson
 ca51d53828a1f62b10835fd0259e852d *inst/extdata/footprint_comparison/README.md
 8e6751919a8f95281acfa003359423bb *inst/extdata/footprint_comparison/boundary/study_area.dbf
@@ -26,4 +26,4 @@ a90a85cbe72b9b60aeaa48149b064e7a *inst/extdata/footprint_comparison/shp/new.shp
 28efc9cf54d2903c550303f0c409fc68 *man/validate_morphology_columns.Rd
 64bd1b0326127be03ef3a88370e437b7 *tests/testthat.R
 56a5a03b928f85c04dd571d4d5b57cda *tests/testthat/test_compare_footprints.R
-a3dfaaab9b068de1baeb845247686e28 *tests/testthat/test_extract_geometric_features.R
+3dcc56ac65b3ceda473604bea1cf7f0c *tests/testthat/test_extract_geometric_features.R
